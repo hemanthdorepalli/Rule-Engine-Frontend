@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rule-Engine-Frontend/static/css/main.16f96091.css",
+    "main.js": "/Rule-Engine-Frontend/static/js/main.2c016554.js",
+    "static/js/453.1348b13f.chunk.js": "/Rule-Engine-Frontend/static/js/453.1348b13f.chunk.js",
+    "index.html": "/Rule-Engine-Frontend/index.html",
+    "main.16f96091.css.map": "/Rule-Engine-Frontend/static/css/main.16f96091.css.map",
+    "main.2c016554.js.map": "/Rule-Engine-Frontend/static/js/main.2c016554.js.map",
+    "453.1348b13f.chunk.js.map": "/Rule-Engine-Frontend/static/js/453.1348b13f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16f96091.css",
+    "static/js/main.2c016554.js"
+  ]
+}
